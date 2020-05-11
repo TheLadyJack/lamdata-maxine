@@ -9,7 +9,7 @@ def time_split(dt_list):
     X['Year'] = dt_list.dt.year
     X['Month'] = dt_list.dt.month
     X['Day'] = dt_list.dt.day
-    return X['Year']
+    return (X['Year'])
     return X['Month']
     return X['Day']
 
