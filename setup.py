@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="my-lamdata-pt5", # the name that you will install via pip
-    version="1.1",
+    version="1.2",
     author="Jackie Maxine Morey",
     author_email="maxine.e.morey@gmail.com",
     description="A lambda school project module",
